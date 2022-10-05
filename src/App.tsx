@@ -6,7 +6,7 @@ import NotFound from './pages/NotFound';
 export function App() {
   return (
     <div>
-      <h1>React Vite Starter</h1>
+      <h1 className="text-5xl">React Vite Starter</h1>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="*" element={<NotFound />} />
