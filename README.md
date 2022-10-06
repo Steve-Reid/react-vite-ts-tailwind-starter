@@ -1,6 +1,6 @@
-# React Vite Starter
+# React Vite Starter with Tailwind
 
-A React TypeScript starter project
+A React TypeScript starter project with React Router and Tailwindcss
 
 ## Tech Stack
 
@@ -8,8 +8,10 @@ A React TypeScript starter project
 - React & React DOM v18
 - Type Checker - TypeScript v4.6.4
 - Navigation - [React Router Dom](https://reactrouter.com/en/main/router-components/browser-router) v6.4.1
+- Styling - [Tailwindcss](https://tailwindcss.com) v3.1.8
 - Lint - [ESlint v8](https://eslint.org), [AirBnB config](https://www.npmjs.com/package/eslint-config-airbnb) & [AirBnB TypeScript config](https://www.npmjs.com/package/eslint-config-airbnb-typescript)
 - Format - [Prettier](https://prettier.io) v2.7.1
+- Testing - [Vitest](https://vitest.dev) v0.23.4 & [Testing Library](https://testing-library.com)(React v13.4)(Jest-DOM v5.16.5)
 
 ## Usage
 
